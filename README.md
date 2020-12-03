@@ -1,6 +1,6 @@
 # Analisis-de-Red-Vial-de-la-ciudad-de-Chilpancingo
 
-Objetivo
+**Objetivo:**
 
 Usar el servicio de páginas de GitHub para publicar proyectos Web.
 
